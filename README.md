@@ -21,9 +21,8 @@
 - 📫 How to reach me **RAHULRKRK2003@GMAIL.COM**
 
 - ⚡ Fun fact **When I start doing something new that I love, it may still be challenging, but it becomes easier to tackle because I am motivated to explore and find solutions. When I approach something with a sense of curiosity and enthusiasm, I am more likely to persevere through the difficult parts and make progress towards my goals. So, if I am feeling overwhelmed by a new project or task, I should try to find the aspects of it that I enjoy and focus on those as I explore and learn.
-- 
--                                                               
--                                           "The only way to do great work is to love what you do." - Steve Jobs**
+
+-                                   "The only way to do great work is to love what you do." - Steve Jobs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
