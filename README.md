@@ -1,7 +1,7 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Rahul Saini</h1>
 <h3 align="center">A passionate full stack web-developer and python developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif"> 
+<img align="right" alt="Coding" width="300" style="padding: 12px 0 0 0; " src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif"> 
 
 - 🔭 I’m currently working on [Touristo](https://github.com/RahulSaini2772003/Turisto)
 
