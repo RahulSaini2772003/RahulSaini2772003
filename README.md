@@ -3,6 +3,9 @@
 <h3 align="center">A passionate full stack web-developer and python developer from India</h3>
 <img align="right" alt="Coding" width="300" style="padding: 12px 0 0 0; " src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif"> 
 
+
+- 📄 Know about my experiences [Portfolio](https://mr-rahul-portfolio-website.000webhostapp.com/)
+
 - 🔭 I’m currently working on [Touristo](https://github.com/RahulSaini2772003/Turisto)
 
 - 🌱 I’m currently learning **API's, Blockchain Development, Cloud computing**
@@ -11,15 +14,13 @@
 
 - 🤝 I’m looking for help with [Tourito](https://github.com/RahulSaini2772003/Turisto)
 
-- 👨‍💻 All of my projects are available at [https://github.com/RahulSaini2772003/](https://github.com/RahulSaini2772003/)
+- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/RahulSaini2772003/)
 
 - 💬 Ask me about **python, HTML, CSS, PHP, C, C++, JAVA, JS etc**
 
 - 📫 How to reach me **RAHULRKRK2003@GMAIL.COM**
 
-- 📄 Know about my experiences [https://mr-rahul-portfolio-website.000webhostapp.com/resume/CV_Rahul.pdf](https://mr-rahul-portfolio-website.000webhostapp.com/resume/CV_Rahul.pdf)
-
-- ⚡ Fun fact **When I start doing something new that I love, it may still be challenging, but it becomes easier to tackle because I am motivated to explore and find solutions. When I approach something with a sense of curiosity and enthusiasm, I am more likely to persevere through the difficult parts and make progress towards my goals. So, if I am feeling overwhelmed by a new project or task, I should try to find the aspects of it that I enjoy and focus on those as I explore and learn. "The only way to do great work is to love what you do." - Steve Jobs**
+- ⚡ Fun fact **When I start doing something new that I love, it may still be challenging, but it becomes easier to tackle because I am motivated to explore and find solutions. When I approach something with a sense of curiosity and enthusiasm, I am more likely to persevere through the difficult parts and make progress towards my goals. So, if I am feeling overwhelmed by a new project or task, I should try to find the aspects of it that I enjoy and focus on those as I explore and learn.                                                              "The only way to do great work is to love what you do." - Steve Jobs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
