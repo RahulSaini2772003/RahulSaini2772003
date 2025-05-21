@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" style="padding: 12px 0 0 0; " src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif"> 
 
 
-- 🔭 I’m currently working on [Data Science & Machine Learning](https://github.com/RahulSaini2772003?tab=repositories)
+- 🔭 I’m currently working on [Data Science & Gen Ai ](https://github.com/RahulSaini2772003?tab=repositories)
 
 - 🌱 I’m currently learning **Machine Learning & Data Science**
 
@@ -12,7 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/RahulSaini2772003?tab=repositories)
 
-- 📄 Know about my experiences [Portfolio](https://mr-rahul-portfolio-website.000webhostapp.com/)
 
 - 💬 Ask me about **Python, Data Science, Data Preprocessing, Data Analysis, Web scraping, NumPy, pandas, beautiful soup, seaborn, requests, MySQL-PyMysql, REST APIs, Web ScrapingPython, HTML, CSS, PHP, C, C++ etc**
 
